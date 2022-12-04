@@ -1,0 +1,53 @@
+## Copy From Terminal:-
+CNTRL + SHIFT + C
+
+## Paste into Terminal:-
+CNTRL + SHIFT + V
+
+## List:-
+ls
+
+- List File in Sub-dir as well:-
+ls -R
+
+- Lists Hidden Files as well:-
+ls -a
+
+- Include Hidden Files with Detailed Info:-
+ls -al
+
+## Present Working Dir:-
+pwd
+
+## Change Dir:-
+cd ..
+
+## Create File:-
+touch <FileName>
+
+## Create Dir:-
+mkdir <DirName> OR mkdir /Folder/<DirName>
+
+## Crear Screen:-
+CNTRL + L Or Clear
+
+## Copy File Somewhere:-
+sudo cp <SourceFile> <DestDir>
+
+## Move File Somewhere:-
+sudo mv <SourceFile> <DestDir>
+
+## Remove File:-
+sudo rm <FileName>
+
+## Remove Dir:-
+rmdir <DirName> OR rm -r <DirName>
+
+## Rename File/Dir:-
+mv <FileName> <NewFileName> OR mv <DirName> <NewDirName>
+
+## HELP For any Command:-
+man <CommandName>
+
+## Get History of Commands:-
+history
